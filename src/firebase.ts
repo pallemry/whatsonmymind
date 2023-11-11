@@ -19,5 +19,7 @@ const firebaseConfig = {
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
+//@ts-expect-error
 const analytics = getAnalytics(app);
+//@ts-expect-error
 const firestore = getFirestore(app)
