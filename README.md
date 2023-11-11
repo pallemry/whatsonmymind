@@ -1,3 +1,6 @@
+# Description
+Just a webstie where I post Stuff that I was thinking about recently
+# nerdy stuff
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
